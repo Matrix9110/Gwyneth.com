@@ -1,0 +1,76 @@
+#me {
+    width: 2300px;
+    height: px;
+    border-radius: 150px;
+    margin-top: 60px;
+}
+
+#name {
+    font-size: 50;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 80
+}
+
+#hobby {
+    font-family: 'Source Code Pro', monospace;
+    color: white;
+}
+
+#my {
+    font-size: ;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-top: 50
+}
+
+#section1 {
+    background-image: url("Gwyneth%20herrera.jpg");
+    height: 540px;
+}
+
+#about {
+    font-size: 50;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#page {
+    font-size: 30;
+    font-family: 'Source Code Pro', monospace;
+}
+
+li {
+    float: left;
+    
+   
+   
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: ;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    
+    padding: 30px 30px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19
+}
+
+li a:hover {
+    background-color: #424242;
+}
+.active {
+  background-color: #4f4f4f;
+}
